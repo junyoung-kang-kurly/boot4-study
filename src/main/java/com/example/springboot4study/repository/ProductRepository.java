@@ -1,6 +1,6 @@
-package com.example.action.repository;
+package com.example.springboot4study.repository;
 
-import com.example.action.domain.Product;
+import com.example.springboot4study.domain.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

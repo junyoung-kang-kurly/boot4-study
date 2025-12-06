@@ -1,4 +1,4 @@
-package com.example.action.springboot4;
+package com.example.springboot4study.springboot4;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,6 +1,6 @@
-# Spring Boot 4 + Java 25 Examples
+# Spring Boot 4 Study
 
-Spring Boot 4.0과 Java 25 LTS의 최신 기능들을 학습할 수 있는 예제 프로젝트입니다.
+Spring Boot 4.0과 Java 25 LTS의 최신 기능들을 학습할 수 있는 스터디 프로젝트입니다.
 
 ## 기술 스택
 
@@ -14,8 +14,8 @@ Spring Boot 4.0과 Java 25 LTS의 최신 기능들을 학습할 수 있는 예�
 ## 프로젝트 구조
 
 ```
-src/main/java/com/example/action/
-├── ActionApplication.java          # 메인 애플리케이션
+src/main/java/com/example/springboot4study/
+├── SpringBoot4StudyApplication.java  # 메인 애플리케이션
 ├── java25/                          # Java 25 새 기능 예제
 │   ├── PatternMatchingExample.java  # Primitive Pattern Matching (JEP 507)
 │   ├── StructuredConcurrencyExample.java  # Structured Concurrency (JEP 505)
@@ -152,7 +152,7 @@ spring:
 ./gradlew bootRun
 
 # 또는 JAR 직접 실행
-java -jar build/libs/action-0.0.1-SNAPSHOT.jar
+java -jar build/libs/spring-boot-4-study-0.0.1-SNAPSHOT.jar
 ```
 
 ### API 테스트

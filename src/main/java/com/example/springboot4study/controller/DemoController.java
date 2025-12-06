@@ -1,10 +1,10 @@
-package com.example.action.controller;
+package com.example.springboot4study.controller;
 
-import com.example.action.domain.Product;
-import com.example.action.java25.PatternMatchingExample;
-import com.example.action.java25.StructuredConcurrencyExample;
-import com.example.action.java25.VirtualThreadExample;
-import com.example.action.repository.ProductRepository;
+import com.example.springboot4study.domain.Product;
+import com.example.springboot4study.java25.PatternMatchingExample;
+import com.example.springboot4study.java25.StructuredConcurrencyExample;
+import com.example.springboot4study.java25.VirtualThreadExample;
+import com.example.springboot4study.repository.ProductRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

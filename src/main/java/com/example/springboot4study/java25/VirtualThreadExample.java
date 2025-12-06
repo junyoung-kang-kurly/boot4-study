@@ -1,4 +1,4 @@
-package com.example.action.java25;
+package com.example.springboot4study.java25;
 
 import org.springframework.stereotype.Component;
 

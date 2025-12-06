@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring-boot-4-java-25-examples
+    name: spring-boot-4-study
 
   # Virtual Threads Configuration (Spring Boot 4 enhanced support)
   threads:
@@ -59,7 +59,7 @@ management:
 logging:
   level:
     root: INFO
-    com.example.action: DEBUG
+    com.example.springboot4study: DEBUG
     org.springframework.web: INFO
   pattern:
     console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
