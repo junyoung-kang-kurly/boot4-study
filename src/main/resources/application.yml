@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring-boot-4-study
+    name: boot4-study
 
   # Virtual Threads Configuration (Spring Boot 4 enhanced support)
   threads:

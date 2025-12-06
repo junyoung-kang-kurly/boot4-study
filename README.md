@@ -1,4 +1,4 @@
-# Spring Boot 4 Study
+# Boot4 Study
 
 Spring Boot 4.0과 Java 25 LTS의 최신 기능들을 학습할 수 있는 스터디 프로젝트입니다.
 
@@ -152,7 +152,7 @@ spring:
 ./gradlew bootRun
 
 # 또는 JAR 직접 실행
-java -jar build/libs/spring-boot-4-study-0.0.1-SNAPSHOT.jar
+java -jar build/libs/boot4-study-0.0.1-SNAPSHOT.jar
 ```
 
 ### API 테스트
